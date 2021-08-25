@@ -1,4 +1,4 @@
-# Site settings
+# Site settings ##############################################################
 title: Justin Breese | random thoughts
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -7,6 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://justinbreese.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: justinbreese
 github_username:  justinbreese
+permalink: /blog/:year/:title/
 
 css_inline: true
 
@@ -39,7 +40,7 @@ social: # jekyll-seo-tag > social overrides
     - https://www.linkedin.com/in/justinbreese
     - https://github.com/justinbreese
 
-# Navigation
+# Navigation #####################################################################
 navigation_header:
 - title: Home
   url: /
@@ -47,8 +48,10 @@ navigation_header:
   url: /blog/
 - title: Categories
   url: /categories/
-- title: Search
-  url: /search/
+# - title: Search
+#   url: /search/
+- title: Spark Shuffle Partition Calculator
+  url: /spark-shuffle-partition-calculator
 
 navigation_footer:
 - title: Created by Justin Breese Ⓒ 2021
@@ -67,7 +70,6 @@ sharing_links: # Appear at the bottom of single blog posts, add as desired. The 
   Email: true
 
 # Excludes #######################################
-
 exclude:
   - .sass-cache/
   - .jekyll-cache/
@@ -83,3 +85,5 @@ exclude:
   - alembic-jekyll-theme.gemspec
   - .jekyll-cache
   - CNAME
+
+  #  google analytics UA-11724261-3

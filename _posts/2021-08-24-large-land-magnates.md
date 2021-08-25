@@ -2,7 +2,7 @@
 layout: post
 title:  "First post"
 date:   2021-08-24 13:33:03 -0700
-categories: jekyll update
+categories: blog
 published: false
 ---
 

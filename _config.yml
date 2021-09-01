@@ -1,5 +1,5 @@
 # Site settings ##############################################################
-title: Justin Breese | random thoughts
+title: Justin Breese | random thoughts from my head
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   TBD
@@ -9,7 +9,7 @@ twitter_username: justinbreese
 github_username:  justinbreese
 permalink: /blog/:year/:title/
 
-css_inline: true
+css_inline: false
 
 # Build settings ##############################################################
 # theme: minima
@@ -48,13 +48,13 @@ navigation_header:
   url: /blog/
 - title: Categories
   url: /categories/
-# - title: Search
-#   url: /search/
+- title: Search
+  url: /search/
 - title: Spark Shuffle Partition Calculator
   url: /spark-shuffle-partition-calculator
 
 navigation_footer:
-- title: Created by Justin Breese Ⓒ 2021
+- title: 
   url: https://justinbreese.com
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
@@ -86,4 +86,41 @@ exclude:
   - .jekyll-cache
   - CNAME
 
-  #  google analytics UA-11724261-3
+# Fonts #########################################
+fonts:
+  preconnect_urls:
+    - https://fonts.gstatic.com
+  font_urls:
+    - https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;700&display=swap
+
+# Collections ###################################
+collections:
+  posts:
+    title: Posts # Needed for Siteleaf
+    output: true
+    description: "My thoughts and ideas" # The post list page content
+    feature_text:
+    feature_image: "/assets/993.jpg"
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: "/assets/default-social-image.png" # Default image for sharing
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post # Set the default layout for posts
+      feature_image: "/assets/993.jpg"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page # Set the default layout for pages
+      feature_image: "/assets/993.jpg"
+
+#  google analytics UA-11724261-3

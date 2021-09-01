@@ -1,0 +1,42 @@
+---
+title: false
+styles: true
+---
+
+// text colors 
+// body.home, body.layout-blog, body.layout-categories, body.layout-page{
+//     font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif
+// }
+// h1, h2, h3, h4, h5, h6 {
+//     font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif
+// }
+
+// navigation
+.nav {
+    font-size: 18px
+    
+}
+.item--nav a {
+    color: #000000
+}
+.item--nav a:hover {
+    color: #a8adac
+}
+
+// Typography
+$bodytype: (
+  font-family: '"Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif',
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
+$headingtype: (
+  font-family: '"Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
+
+@import "alembic";

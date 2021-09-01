@@ -1,6 +1,5 @@
 ---
-layout: page
-title: home
+title: About
 ---
 # Welcome
 Hello and welcome to my website. Back up and running.

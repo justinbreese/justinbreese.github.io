@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Spark Shuffle Partition Calculator
 ---
 Calculating the correct number of Spark Shuffle Partitions is something that I help a lot of customers with. So, I decided to give you an easy way to do it - with a calculator!

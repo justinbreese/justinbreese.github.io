@@ -2,7 +2,7 @@
 layout: post
 title:  "Podcast Review: Hardcore History - Dan Carlin"
 date:   2015-09-02 13:33:03 -0700
-categories: review
+categories: Review
 published: true
 ---
 Alright, I will say it: I love history.  It is inspiring to learn about what people have accomplished, how they have done it, the good, the bad, and the ugly.  I am not talking about the sugar-coated history either.  I love learning about the villains and the things that were left out of the high school history books.

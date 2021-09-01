@@ -2,7 +2,7 @@
 layout: post
 title:  "During the quest for progress, we need to remain benevolent"
 date:   2018-12-03 13:33:03 -0700
-categories: blog
+categories: Blog
 published: true
 ---
 We learn history, but we do not necessarily learn from history.  We always think that this time is different; with different people, circumstances, incentives, etc.  But, we really are not all that different than our ancestors who walked several thousand years before us. Humans are still - and will always be - humans.

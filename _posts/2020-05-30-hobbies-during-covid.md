@@ -2,7 +2,7 @@
 layout: post
 title:  "Hobbies during Covid"
 date:   2020-05-30 13:33:03 -0700
-categories: blog
+categories: Blog
 published: true
 ---
 I have worked from home for many years; being remote has been my way of life. What has always kept me sane is:

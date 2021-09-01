@@ -2,7 +2,7 @@
 layout: post
 title:  "Born To Run"
 date:   2014-10-14 13:33:03 -0700
-categories: review book
+categories: Review Book
 published: true
 ---
 Title: Born to Run

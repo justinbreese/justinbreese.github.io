@@ -2,7 +2,7 @@
 layout: post
 title:  "Do nothing"
 date:   2020-05-30 13:33:03 -0700
-categories: blog
+categories: Blog
 published: true
 ---
 Everywhere you look, you can see people with their heads down. You see their craned necks and their thumb swiping.

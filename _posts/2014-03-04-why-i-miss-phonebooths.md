@@ -2,7 +2,7 @@
 layout: post
 title:  "Why I Miss Phone Booths"
 date:   2014-10-13 13:33:03 -0700
-categories: blog
+categories: Blog
 published: true
 ---
 We live in a constantly communicating society.  We have posts, tweets, blogs (thanks for reading), snapchats, and updates.  Try leaving your house without your phone and sheer panic not setting in – you’ll go back home to get it.

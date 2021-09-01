@@ -2,7 +2,7 @@
 layout: post
 title:  "Backpacking Tent Review: Hilleberg Anjan 2"
 date:   2016-02-17 13:33:03 -0700
-categories: blog
+categories: Blog
 published: true
 ---
 A couple of months back I decided to bite the bullet and order a new three-season backpacking tent.  There are a ton out there - in every budget range and representing any feature.  I settled on a Hilleberg Anjan 2.

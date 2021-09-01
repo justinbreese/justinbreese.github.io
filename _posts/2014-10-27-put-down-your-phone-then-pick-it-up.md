@@ -2,7 +2,7 @@
 layout: post
 title:  "Put down your phone - but then pick it up"
 date:   2014-10-27 13:33:03 -0700
-categories: blog
+categories: Blog
 published: true
 ---
 At the bus stop – on my way home from work – there are usually about 30-50 people waiting for their respective buses. At least 90% of the people have their neck craned and their head down looking into their phone. This is usually the saddest part of my day.

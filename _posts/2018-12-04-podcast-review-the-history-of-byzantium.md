@@ -2,7 +2,7 @@
 layout: post
 title:  "Podcast Review: The History of Byzantium"
 date:   2018-12-04 13:33:03 -0700
-categories: review podcast
+categories: Review Podcast
 published: true
 ---
 Alright, I love history. I love everything about it. It applies so much to our lives. I spent a lot of time listening to the _[History of Rome][historyRome]_ podcast and [wrote][blogLink] about it.

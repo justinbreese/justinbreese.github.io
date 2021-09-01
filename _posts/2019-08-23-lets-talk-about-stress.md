@@ -2,7 +2,7 @@
 layout: post
 title:  "Let's talk about stress"
 date:   2019-08-23 13:33:03 -0700
-categories: blog
+categories: Blog
 published: true
 ---
 Stress is all around you. It is everywhere, it will always be present, and there is nothing that you can do about it. But let's be clear: how you respond to stress is absolutely in your control.

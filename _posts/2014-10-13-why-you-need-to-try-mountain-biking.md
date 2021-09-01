@@ -2,7 +2,7 @@
 layout: post
 title:  "Why you need to try mountain biking"
 date:   2014-10-13 13:33:03 -0700
-categories: blog
+categories: Blog
 published: true
 ---
 I hadn’t ridden a bike since my trusty GT Aggressor was stolen from my apartment in graduate school. There were about eight of us who lived at that apartment and we all had bikes that were left unlocked. Someone wanted to steal mine one night leave the others. I am _totally_ over it...

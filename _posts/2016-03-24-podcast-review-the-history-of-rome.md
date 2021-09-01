@@ -2,7 +2,7 @@
 layout: post
 title:  "Podcast Review: the History of Rome"
 date:   2016-03-24 13:33:03 -0700
-categories: review podcast
+categories: Review Podcast
 published: true
 ---
 If I didn't say it before, I'll say it again: I love history.  The more, the merrier.  A few months ago, I stumbled upon The _[History of Rome](http://thehistoryofrome.typepad.com/)_ podcast.  It starts at the actual - mythical - theories onto how Rome started, and it ends in year 476 with the exile of Romulus Augustulus.  You must practice patience because there are about 180 episodes at around 14-28 minutes a piece!  But, I wish that there were more; honestly I do.  Seriously, I was very sad when it ended.  Mike Duncan, the author/speaker, has a very relaxing voice and I appreciate his dry humor that slowly injects throughout the series.

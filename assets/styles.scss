@@ -3,40 +3,39 @@ title: false
 styles: true
 ---
 
-// text colors 
-// body.home, body.layout-blog, body.layout-categories, body.layout-page{
-//     font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif
-// }
-// h1, h2, h3, h4, h5, h6 {
-//     font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif
-// }
-
 // navigation
 .nav {
-    font-size: 18px
-    
-}
-.item--nav a {
-    color: #000000
+  font-size: 18px
+  
 }
 .item--nav a:hover {
-    color: #a8adac
+  color: #a8adac
+}
+
+// turn links and nav black
+.article h3 a, .article h2 a, .post-meta a, .item--nav a, .content a {
+color: #000000
 }
 
 // Typography
 $bodytype: (
-  font-family: '"Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif',
-  regular: 400,
-  bold: 700,
-  italic: italic,
-  cap-height: 0.75
+font-family: '"Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif',
+regular: 400,
+bold: 700,
+italic: italic,
+cap-height: 0.75
 ) !default;
 
 $headingtype: (
-  font-family: '"Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif',
-  regular: 400,
-  bold: 700,
-  cap-height: 0.75
+font-family: '"Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif',
+regular: 400,
+bold: 700,
+cap-height: 0.75
 ) !default;
 
 @import "alembic";
+
+// had to put this down here so it didn't keep getting overridden 
+.typeset p a, .typeset li a {
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #6e6e6e 50%)
+  }

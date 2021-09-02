@@ -44,12 +44,12 @@ navigation_header:
   url: /
 - title: Blog
   url: /blog/
+- title: Spark Shuffle Partition Calculator
+  url: /spark-shuffle-partition-calculator
 - title: Categories
   url: /categories/
 - title: Search
   url: /search/
-- title: Spark Shuffle Partition Calculator
-  url: /spark-shuffle-partition-calculator
 
 navigation_footer:
 - title: 

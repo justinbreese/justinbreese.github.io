@@ -8,6 +8,7 @@ url: "http://justinbreese.github.io" # the base hostname & protocol for your sit
 twitter_username: justinbreese
 github_username:  justinbreese
 permalink: /blog/:year/:title/
+google_analytics: UA-11724261-3
 
 css_inline: false
 

@@ -2,18 +2,24 @@
 title: false
 styles: true
 ---
-
+// body
+.article {
+  font-size: 16px
+}
 // navigation
-.nav {
+.nav, .aside {
   font-size: 18px
   
 }
 .item--nav a:hover {
   color: #a8adac
 }
+.article--post h2 a {
+  font-size: 30px
+}
 
 // turn links and nav black
-.article h3 a, .article h2 a, .post-meta a, .item--nav a, .content a {
+.article h3 a, .article h2 a, .post-meta a, .item--nav a, .content a, .item--category a, .item--category a:hover {
 color: #000000
 }
 
@@ -38,4 +44,7 @@ cap-height: 0.75
 // had to put this down here so it didn't keep getting overridden 
 .typeset p a, .typeset li a {
   background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #6e6e6e 50%)
+  }
+.typeset h1 {
+    font-size: 35px
   }

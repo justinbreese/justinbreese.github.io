@@ -46,8 +46,6 @@ navigation_header:
   url: /blog/
 - title: Spark Shuffle Partition Calculator
   url: /spark-shuffle-partition-calculator
-- title: Categories
-  url: /categories/
 - title: Search
   url: /search/
 

@@ -4,7 +4,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal website. The center for all things fun.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://justinbreese.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://justinbreese.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: justinbreese
 github_username:  justinbreese
 permalink: /blog/:year/:title/
@@ -119,5 +119,3 @@ defaults:
     values:
       layout: page # Set the default layout for pages
       feature_image: "/assets/993.jpg"
-
-#  google analytics UA-11724261-3

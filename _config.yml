@@ -1,15 +1,17 @@
 # Site settings ##############################################################
+# build: bundle exec jekyll serve 
+# git for site: https://github.com/daviddarnes/alembic
+
 title: Justin Breese | random thoughts from my head
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal website. The center for all things fun.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://justinbreese.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://justinbreese.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: justinbreese
 github_username:  justinbreese
 permalink: /blog/:year/:title/
 google_analytics: UA-11724261-3
-
 css_inline: false
 
 # Build settings ##############################################################

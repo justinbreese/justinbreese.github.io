@@ -97,7 +97,7 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "Thoughts and ideas" # The post list page content
+    description: "Thoughts, ideas, and occasional breakthroughs..." # The post list page content
     feature_text:
     feature_image: "/assets/993.jpg"
   

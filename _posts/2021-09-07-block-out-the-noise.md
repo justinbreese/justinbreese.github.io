@@ -2,7 +2,7 @@
 layout: post
 title:  "Block out the noise"
 date:   2021-09-07 13:33:03 -0700
-categories: Blog
+categories: Blog Tech
 published: true
 ---
 ## How does an old phone help me focus?

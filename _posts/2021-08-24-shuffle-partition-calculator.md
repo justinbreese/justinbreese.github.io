@@ -6,4 +6,4 @@ categories: Tech Spark
 published: true
 ---
 
-I made a quick and dirty Spark shuffle partition calculator. Be sure to check it out [here](http://justinbreese.com/shuffle-partition-calculator/). Code can also be found [here](https://github.com/justinbreese/databricks-gems#sparkshufflepartitioncalculatorpy).
+I made a quick and dirty Spark shuffle partition calculator. Be sure to check it out [here](http://justinbreese.com/spark-shuffle-partition-calculator/). Code can also be found [here](https://github.com/justinbreese/databricks-gems#sparkshufflepartitioncalculatorpy).

@@ -5,7 +5,7 @@ date:   2021-09-07 13:33:03 -0700
 categories: Blog Tech
 published: true
 ---
-#### How does an old phone help me focus?
+**How does an old phone help me focus?** <br />
 I have an iPhone SE... not the new one, but the old one. The very old one. In fact, I was hanging out with my 6 year old niece a few weeks ago and she said, "You don't have a phone, you have an iPod." It is that old. It has turned into a joke whenever I am with friends, customers, etc. Some think it should be in a museum. I really love it. Why? 
 * Form factor: it is small, it can fit anywhere
 * Lack of performance: it is not fast. In fact, at times it can be frustratingly slow

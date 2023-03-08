@@ -7,6 +7,7 @@ aside: true
 ---
 Hello world! I am a technologist who currently lives in the LA area.  
 What do I like to do?
+* Being a dad!
 * Soccer
 * Lifting weights
 * Rock climbing
@@ -18,3 +19,5 @@ What do I like to do?
 * Brewing beer
 * Coffee roasting
 * History (Roman Empire specifically)
+
+What am I currently reading? [Hero of Two Worlds: The Marquis de Lafayette in the Age of Revolution by Mike Duncan](https://www.publicaffairsbooks.com/titles/mike-duncan/hero-of-two-worlds/9781541730328/)

@@ -27,3 +27,5 @@ This way of being is a huge divergence from the _Justin_ of a decade ago. I reme
 Good luck. You won't miss those notifications.
 
 p.s. my iPhone SE was acting up recently and barely holding a charge. So, I installed a new battery. It now has a new lease on life and is back to being my old crappy iPod look-a-like.
+
+p.p.s Ugh. So sad, but the iPhone SE finally passed onto into the afterlife. I ended up buying a iPhone 12 Mini; which is what most closely resembled the venerable SE. But, in the spirit of the iPhone SE, I still don't have any apps. :-) 

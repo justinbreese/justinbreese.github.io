@@ -5,7 +5,7 @@ date:   2023-03-06 13:33:03 -0700
 categories: Blog Learning
 published: true
 ---
-**This week in learning** <br />
+**You're a difference person each day, flat bench, and SVB** <br />
 The following are a list of concise things that stuck out in my brain throughout the week:
 
 Every single day, you are a different person than the day before. Everything you saw, heard, and experienced yesterday, changed you into the different person than you are today.
